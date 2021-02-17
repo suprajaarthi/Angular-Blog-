@@ -1,10 +1,16 @@
 # Angblog
 echo "# ang-blog" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git branch -M main
+
 git remote add origin https://github.com/suprajaarthi/ang-blog.git
+
 git push -u origin main
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
